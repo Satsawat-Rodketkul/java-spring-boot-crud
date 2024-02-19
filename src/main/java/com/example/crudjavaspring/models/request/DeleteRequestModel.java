@@ -5,7 +5,6 @@ import lombok.Setter;
 
 @Getter
 @Setter
-public class CreateRequestModel {
+public class DeleteRequestModel {
     private String firstName;
-    private String lastName;
 }
